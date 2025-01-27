@@ -3,22 +3,20 @@
 
 Submitted by: **Andry Rakotonjanabelo**
 
-**Name of your app** is an app that... [TODO] 
+**iOS background change** is an app that... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **1.5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+![andrysprework](https://github.com/user-attachments/assets/c325bf46-077d-45c6-aeb9-8d69572e6354)
 
 ## App Brainstorming (Step 4)
 
@@ -41,4 +39,4 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-![andrysprework](https://github.com/user-attachments/assets/c325bf46-077d-45c6-aeb9-8d69572e6354)
+
