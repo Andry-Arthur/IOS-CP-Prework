@@ -3,7 +3,7 @@
 
 Submitted by: **Andry Rakotonjanabelo**
 
-**iOS background change** is an app that... [TODO] 
+**iOS background change** is an app that shows three labels (name, university, aspirations) and changes background color upon press of the button.
 
 Time spent: **1.5** hours spent in total
 
