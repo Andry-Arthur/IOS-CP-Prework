@@ -19,8 +19,18 @@ The following **required** functionality is completed:
 ![andrysprework](https://github.com/user-attachments/assets/c325bf46-077d-45c6-aeb9-8d69572e6354)
 
 ## App Brainstorming (Step 4)
-
-## Notes
+1) TickTick
+   - intuitive UI for organizing tasks, with options for setting deadlines, recurring tasks, and priority levels, helping users stay on top of their to-do lists.
+   - cross platform syncing of tasks
+   - integrated calendar to organize and plan tasks across time
+2) Duolingo
+   - Friendly theme with game-like structure with levels, reward and streaks to motivate users to regularly use the app.
+   - Ability to follow friends and different people to see each other's progress and keep each other invested in the app.
+   - Very creative push notification widgets to remind you to use the app
+3) Spotify
+   - Ability to simply group songs together into different playlists
+   - Spotify Jam: connect with nearby spotify users to share a listening queue from different devices
+   - Spotify Wrapped: Provide a detailed summary of user's listening habits at the end of each year.
 
 Describe any challenges encountered while building the app.
 
